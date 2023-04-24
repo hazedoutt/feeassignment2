@@ -36,23 +36,3 @@ p{
     bottom:350px;
     left:35%;
 }
-.mov2{
-    margin-left: 20%;
-    margin-right: 5%;
-    border: 3px solid red;
-    border-radius: 5%;
-    height: 280px;
-    width: 900px;
-    white-space:break-spaces;
-    overflow: scroll;
-}
-.mov3{
-    margin-left: 20%;
-    margin-right: 5%;
-    border: 3px solid red;
-    border-radius: 5%;
-    height: 280px;
-    width: 900px;
-    white-space:break-spaces;
-    overflow: scroll;
-}
